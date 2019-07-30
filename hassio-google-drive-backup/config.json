@@ -12,7 +12,7 @@
   "hassio_api": true,
   "hassio_role": "manager",
   "auth_api": true,
-  "webui": "[PROTO:use_ssl]://[HOST]:[PORT:1627]/",
+  "webui": "http://[HOST]:[PORT:8099]/",
   "map": ["ssl", "backup:rw", "config"],
   "options": {
     "max_snapshots_in_hassio": 4,
