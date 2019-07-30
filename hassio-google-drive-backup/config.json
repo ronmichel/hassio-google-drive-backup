@@ -6,6 +6,7 @@
   "arch": ["armhf", "armv7", "aarch64", "amd64", "i386"],
   "startup": "before",
   "boot": "auto",
+  "ingress": true,
   "url": "https://github.com/sabeechen/hassio-google-drive-backup",
   "homeassistant_api": true,
   "hassio_api": true,
