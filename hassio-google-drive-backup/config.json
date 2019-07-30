@@ -81,7 +81,7 @@
     "credentials_file_path": "str?"
   },
   "ports": {
-    "1627/tcp": 1627
+    "8099/tcp": 8099
   },
   "image": "sabeechen/hassio-google-drive-backup-{arch}"
 }
